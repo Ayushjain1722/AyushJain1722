@@ -1,4 +1,6 @@
 ## Hi there! I am Ayush Jain👋
+![](https://komarev.com/ghpvc/?username=Ayushjain1722&label=PROFILE+VIEWS)
+
 ![AyushProgrammer](https://blog.grinfer.com/wp-content/uploads/2020/02/How-to-Learn-Computer-Programming-Languages-1160x591.png)
 
 📕 I am currently studying **Computer Engineering** at **Thapar Institute Of Engineering And Technology, Patiala**(2018-2022).
